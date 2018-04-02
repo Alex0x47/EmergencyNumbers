@@ -1,3 +1,8 @@
+/**
+ * Contains emergency numbers (police, firemen, ambulance) of most countries
+ * Associated with countrie's codes
+ * @type {Object}
+ */
 export const EMERGENCY_NUMBERS = {
    "DZ": {
       "Police": "18",
